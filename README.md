@@ -9,3 +9,6 @@ Controlled experiment on output consistency under prompt variation.
 Semantic drift produced higher variance in output.
 
 No optimization. Just observation.
+## Hypothesis
+
+Semantic variation influences output consistency more than structural variation.
